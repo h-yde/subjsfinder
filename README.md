@@ -10,3 +10,4 @@ cat urls.txt | subjsfinder.sh
 
 # subjs Download
 https://github.com/C0RB3N/subjs
+https://github.com/GerbenJavado/LinkFinder
